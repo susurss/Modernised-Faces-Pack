@@ -1,3 +1,6 @@
+**Version 1.0.2**
+ - Minor texture fix for hd
+
 **Version 1.0.1**
  - Improved the 'Hard Demon' difficulty face design
 
