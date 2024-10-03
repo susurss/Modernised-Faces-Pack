@@ -1,3 +1,6 @@
+**Version 1.1.0**
+ - Added compatability for uproxide's More Difficulties mod
+
 **Version 1.0.2**
  - Minor texture fix for hd
 
