@@ -1,8 +1,8 @@
-**If not using Geode:**
+# If not using Geode
 
 To use the texture pack, simply download the texture sheets and replace the relevant ones in the "Resources" folder of your Geometry Dash! After doing this, you will see the faces in all their glory!
 
-**If using Geode:**
+# If using Geode
 
 Download these mods:
   - "Texture Loader" by Geode Team
