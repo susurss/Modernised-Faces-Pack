@@ -1,6 +1,11 @@
+# v1.1
+**Version 1.1.1**
+ - Fixed More Difficulties texture sheets due to breaking with new version
+
 **Version 1.1.0**
  - Added compatability for uproxide's More Difficulties mod
 
+# v1.0
 **Version 1.0.2**
  - Minor texture fix for hd
 
