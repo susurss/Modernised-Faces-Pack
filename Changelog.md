@@ -1,6 +1,9 @@
 # v1.1
+**version 1.1.2**
+ - Improved the 'Extreme Demon' difficulty face design
+
 **Version 1.1.1**
- - Fixed More Difficulties texture sheets due to breaking with new version
+ - Fixed More Difficulties texture sheets that broke with their new version
 
 **Version 1.1.0**
  - Added compatability for uproxide's More Difficulties mod
