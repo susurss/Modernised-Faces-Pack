@@ -1,5 +1,5 @@
 # v1.1
-**version 1.1.2**
+**Version 1.1.2**
  - Improved the 'Extreme Demon' difficulty face design
 
 **Version 1.1.1**
