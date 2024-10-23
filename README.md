@@ -19,10 +19,10 @@ This texture pack is included in the Texture Workshop (Although it may be an old
 # Compatible Mods
 
   - "More Difficulties" by Uproxide
+  - "GodlikeFaces" by AdyaGD & hiimjustin000
 
 # Roadmap
 
-  - "Godlike Faces" support
   - "Grandpa Demon" support
   - "GDDP Integration" support
   - "Fake Rate" support
