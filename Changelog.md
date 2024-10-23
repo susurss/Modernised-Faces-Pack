@@ -1,3 +1,8 @@
+# v1.2
+**Version 1.2.0**
+ - Added compatibility for AdyaGD's Godlike Faces mod
+ - Fixed Legendary rate texture placement for hd
+
 # v1.1
 **Version 1.1.2**
  - Improved the 'Extreme Demon' difficulty face design
@@ -6,7 +11,7 @@
  - Fixed More Difficulties texture sheets that broke with their new version
 
 **Version 1.1.0**
- - Added compatability for uproxide's More Difficulties mod
+ - Added compatability for Uproxide's More Difficulties mod
 
 # v1.0
 **Version 1.0.2**
