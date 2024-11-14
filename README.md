@@ -20,10 +20,12 @@ This texture pack is included in the Texture Workshop (Although it may be an old
 
   - "More Difficulties" by Uproxide
   - "GodlikeFaces" by AdyaGD & hiimjustin000
+  - "Grandpa Demon" by itzKiba
 
 # Roadmap
 
-  - "Grandpa Demon" support
   - "GDDP Integration" support
   - "Fake Rate" support
-  - "Demons Inbetween" support
+  - "Demons " support
+
+  - Potential Modernised Everything(?) texture pack
