@@ -1,8 +1,12 @@
 # v1.3
+**Version 1.3.1**
+ - Fixed More Difficulties spritesheets
+ - Added the .plist files for More Difficulties sheets
+
 **Version 1.3.0**
  - Added compatibility for Kiba's Grandpa Demon mod
  - Fixed main spritesheets that weren't compatible with GD 2.207
- - Added the .plist files in case there is anyone playing on GD 2.206 or earlier
+ - Added the .plist files for the main sheets
 
 # v1.2
 **Version 1.2.0**
