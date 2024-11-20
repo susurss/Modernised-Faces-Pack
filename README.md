@@ -26,6 +26,6 @@ This texture pack is included in the Texture Workshop (Although it may be an old
 
   - "GDDP Integration" support
   - "Fake Rate" support
-  - "Demons " support
+  - "Demons Inbetween" support
 
   - Potential Modernised Everything(?) texture pack
