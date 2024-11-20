@@ -7,11 +7,13 @@
  - Added compatibility for Kiba's Grandpa Demon mod
  - Fixed main spritesheets that weren't compatible with GD 2.207
  - Added the .plist files for the main sheets
+ - New logo
 
 # v1.2
 **Version 1.2.0**
  - Added compatibility for AdyaGD's Godlike Faces mod
  - Fixed Legendary rate texture placement for hd
+ - New logo
 
 # v1.1
 **Version 1.1.2**
