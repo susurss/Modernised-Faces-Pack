@@ -1,3 +1,11 @@
+# v2.0
+
+**Version 2.0-beta.1**
+ - Revamped the base game difficulties from 0-9*
+ - Redesigned the feature ring and epic-mythic fires
+ - Medium resolution no longer supported
+ - Previously supported mods no longer supported
+
 # v1.3
 **Version 1.3.1**
  - Fixed More Difficulties spritesheets
