@@ -1,29 +1,31 @@
-# Welcome To My Silly Little Texture Pack!
+# Welcome to Procrastination Central!
 
-This is a little project I'm doing to keep myself busy when I have nothing to do, and it contains some little faces that I think turned out quite well!
+This is a project that has been in the running for two years, with a very long hiatus due to faltering motivation
 
 I'm making little steps to improve compatibility for mods that modify/increase the number of faces in the game (Although it may take a while)
 
+If you are looking for the older textures, visit this repository instead
+https://github.com/susurss/Modernised-Faces-Pack-Legacy/releases
+
 # If Not Using Geode
 
-Download the texture sheets and replace the relevant ones in the "Resources" folder of your Geometry Dash
+Download the texture sheets and replace the relevant ones in the "Resources" folder of your Geometry Dash directory
 
 # If Using Geode
 
-Download these mods:
-  - "Texture Loader" by Geode Team
-  - "Texture Workshop" by Uproxide
+This beta is NOT included in the Texture Workshop
 
-This texture pack is included in the Texture Workshop (Although it may be an older version of the pack) so you can download it there to save some hassle!
+# Current Content
 
-# Compatible Mods
-
-  - "More Difficulties" by Uproxide
-  - "GodlikeFaces" by AdyaGD & hiimjustin000
-  - "Grandpa Demon" by itzKiba
-
+  - 0-9* difficulty faces
+  - Rating fires
+ 
 # Roadmap
 
+  - Demon faces
+  - Medium textures
+  - "GodlikeFaces" support
+  - "More Difficulties" support
   - "GDDP Integration" support
   - "Fake Rate" support
   - "Demons Inbetween" support
