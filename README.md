@@ -4,7 +4,7 @@ This is a project that has been in the running for two years, with a very long h
 
 I'm making little steps to improve compatibility for mods that modify/increase the number of faces in the game (Although it may take a while)
 
-If you are looking for the older textures, visit this repository instead
+If you are looking for the older textures, visit this repository instead:
 https://github.com/susurss/Modernised-Faces-Pack-Legacy/releases
 
 # If Not Using Geode
