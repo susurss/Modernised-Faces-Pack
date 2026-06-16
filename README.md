@@ -14,6 +14,7 @@ Download the texture sheets and replace the relevant ones in the "Resources" fol
 # If Using Geode
 
 This beta is NOT included in the Texture Workshop
+Instead, manually add it to your packs folder
 
 # Current Content
 
@@ -22,6 +23,7 @@ This beta is NOT included in the Texture Workshop
  
 # Roadmap
 
+  - "Happy Textures" functionality
   - Demon faces
   - Medium textures
   - "GodlikeFaces" support
