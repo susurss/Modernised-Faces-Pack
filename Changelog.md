@@ -1,5 +1,8 @@
 # v2.0
 
+**Version 2.0-beta.2**
+ - Implemented "Happy Textures" functionality for completed sprites
+
 **Version 2.0-beta.1**
  - Revamped the base game difficulties from 0-9*
  - Redesigned the feature ring and epic-mythic fires
